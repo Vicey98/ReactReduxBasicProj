@@ -1,6 +1,6 @@
-const INCREMENT = "increment";
-const DECREMENT = "decrement";
-const RESET = "reset";
+const INCREMENT = "react-redux-basic-proj/counter/increment";
+const DECREMENT = "react-redux-basic-proj/counter/decrement";
+const RESET = "react-redux-basic-proj/counter/reset";
 
 export const increment = () => ({
     type: INCREMENT
